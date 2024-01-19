@@ -1,0 +1,22 @@
+{
+  "name": "onchain_multisig_wallet_dapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xSabdadev/onchain_multisig_wallet_dapps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xSabdadev/onchain_multisig_wallet_dapps/issues"
+  },
+  "homepage": "https://github.com/0xSabdadev/onchain_multisig_wallet_dapps#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
